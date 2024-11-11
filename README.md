@@ -6,8 +6,8 @@
     <img src="../../../assets/render.png" alt="Render Logo" height="1.2em"> <span style="margin-left: 5px;">Deploy with Render</span>
   </a>
 </p>
-# Must Read
-This project is a fork of Pathway's Retrieval-Augmented Generation (RAG) framework. It is intended for educational and learning purposes as part of the RAG workshop, led by Saksham Goel.
+
+<span style="color:blue">This project is a fork of Pathway's Retrieval-Augmented Generation (RAG) framework, created for educational purposes as part of the RAG workshop led by Saksham Goel during ATMOS '24.</span>
 
 # Pathway RAG app with always up-to-date knowledge
 
